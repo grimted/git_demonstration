@@ -5,3 +5,5 @@ for i in range(a):
     sum += i
 sum = sum + b
 print("sum: {}.".format(sum))
+
+s = 45
