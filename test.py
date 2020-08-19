@@ -1,7 +1,7 @@
-a =50
-b =3
+a = 50
 sum = 0
-
+b = 5
 for i in range(a):
-	sum = b * (sum + i)
-print("sum: {}".format(sum))
+    sum += i
+sum = sum + b
+print("sum: {}.".format(sum))
