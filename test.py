@@ -6,4 +6,4 @@ for i in range(a):
 sum = sum + b
 print("sum: {}.".format(sum))
 
-s = 45
+s = 444
